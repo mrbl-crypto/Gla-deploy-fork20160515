@@ -6,6 +6,7 @@
   "private": false,
   "scripts": {
     "start": "node index.js"
+    "build": "echo \"hello world!""
   },
   "dependencies": {
     "axios": "latest",

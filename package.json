@@ -5,6 +5,7 @@
   "main": "index.js",
   "private": false,
   "scripts": {
+    "install": "echo \"hello world!""
     "start": "node index.js"
     "build": "echo \"hello world!""
   },
